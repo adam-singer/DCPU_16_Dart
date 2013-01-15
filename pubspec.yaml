@@ -1,0 +1,8 @@
+name:  DCPU_16_Dart
+description:  A sample application
+
+dependencies:
+#  js: any
+  unittest: any
+  logging: any
+  browser: any
